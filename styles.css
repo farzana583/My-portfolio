@@ -31,7 +31,7 @@ body{
     padding-right: 300px;
 }
 .about{
-    display: left;
+    display: flex;
     justify-content: space-between;
 }
 .joker{
