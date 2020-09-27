@@ -23,7 +23,7 @@ body{
         text-transform: uppercase;
     }
 .home{
-    background-image: url("../fartush.jpg");
+    background-image: url("./fartush.jpg");
     background-size: cover;
      height: 47vh; 
      text-align: right;
