@@ -13,7 +13,7 @@
 ---
 ### Git Hub Live Link
 *click to view my portfolio*
-[https://kerrykogei24.github.io/Kerry-Portfolio/](https://kerrykogei24.github.io/Kerry-Portfolio/)
+[https://github.com/farzana583/My-portfolio.git](https://kerrykogei24.github.io/Kerry-Portfolio/)
 ## Copyright and License
 MIT License
 MIT License
