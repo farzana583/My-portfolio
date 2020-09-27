@@ -35,7 +35,8 @@ body{
     justify-content: space-between;
 }
 .joker{
-    width:60%;
+    margin-left: 5%;
+    margin-right: 3%;
 }
 
 /* .faz{
@@ -128,6 +129,9 @@ width: 200px;
 
  h4 {
     color:black;
+}
+.var {
+    margin-left: 5%;
 }
 
 
