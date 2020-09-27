@@ -8,9 +8,6 @@
 * on your search bar white [https://github.com/farzana583/My-portfolio.git](https://github.com/farzana583/My-portfolio.git)
 * on github click the link and you ready to go.
 ---
-#### project image
-![Farzana](./farzana.pnj)
----
 ### Git Hub Live Link
 *click to view my portfolio*
 [https://github.com/farzana583/My-portfolio.git](https://github.com/farzana583/My-portfolio.git/)
