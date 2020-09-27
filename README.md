@@ -5,11 +5,11 @@
 ---
 ## Setup instructions
 * Launch your browser
-* on your search bar white [https://github.com/Kerrykogei24/Kerry-Portfolio](https://github.com/Kerrykogei24/Kerry-Portfolio)
+* on your search bar white [https://github.com/farzana583/My-portfolio.git](https://github.com/farzana583/My-portfolio.git)
 * on github click the link and you ready to go.
 ---
 #### project image
-![Kerrykogei](./images/potfo.png)
+![Farzana](./farzana.pnj)
 ---
 ### Git Hub Live Link
 *click to view my portfolio*
