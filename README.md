@@ -1,6 +1,6 @@
 ### copyright and license
 # Farzana-portfolio
-#### {This a portfolio that describe Kerry kipchumba Kogei in details}, {26/09/2020}
+#### {This a portfolio that describ more about Farzana Isack}, {26/09/2020}
 #### By **Kerry Kipchumba Kogei**    
 ---
 ## Setup instructions
