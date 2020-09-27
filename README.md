@@ -1,4 +1,21 @@
 ### copyright and license
+# Farzana-portfolio
+#### {This a portfolio that describe Kerry kipchumba Kogei in details}, {26/09/2020}
+#### By **Kerry Kipchumba Kogei**    
+---
+## Setup instructions
+* Launch your browser
+* on your search bar white [https://github.com/Kerrykogei24/Kerry-Portfolio](https://github.com/Kerrykogei24/Kerry-Portfolio)
+* on github click the link and you ready to go.
+---
+#### project image
+![Kerrykogei](./images/potfo.png)
+---
+### Git Hub Live Link
+*click to view my portfolio*
+[https://kerrykogei24.github.io/Kerry-Portfolio/](https://kerrykogei24.github.io/Kerry-Portfolio/)
+## Copyright and License
+MIT License
 MIT License
 
 Copyright (c) [2020] [Farzana Isack]
